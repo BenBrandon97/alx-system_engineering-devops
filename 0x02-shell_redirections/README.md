@@ -1,1 +1,1 @@
-This is a shell I/O redirections ans filter  readme file.
+My Shell, I/O redirections and filters readme file.
